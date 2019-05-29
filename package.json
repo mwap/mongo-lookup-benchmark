@@ -1,0 +1,20 @@
+{
+  "name": "mongo-lookup-benchmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "convert-hrtime": "^3.0.0",
+    "lodash": "^4.17.11",
+    "mathjs": "^5.9.0",
+    "mocha": "^6.1.4",
+    "mongodb": "^3.2.3",
+    "uuid": "^3.3.2"
+  }
+}
